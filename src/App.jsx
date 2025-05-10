@@ -8,16 +8,17 @@ const App = () => {
       
       {/* Header */}
       <header className="bg-white shadow-md py-4 px-4 sm:px-6">
-        <div className="flex flex-col sm:flex-row sm:items-center sm:space-x-4">
+        <div className="flex flex-row items-center space-x-4">
+          
           {/* Logo */}
           <img
             src="/Logo.png"
             alt="Logo"
-            className="h-14 w-auto mb-2 sm:mb-0"
+            className="w-24 sm:w-32 object-contain"
           />
 
           {/* Title & Address */}
-          <div className="text-center sm:text-left">
+          <div className="">
             <h1 className="text-lg sm:text-xl font-bold text-gray-800">
               Pak Tyre & Rubber Factory
             </h1>
