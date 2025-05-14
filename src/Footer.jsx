@@ -16,7 +16,7 @@ const Footer = () => {
     <p className="font-semibold text-lg">Contact us on WhatsApp:</p>
   </div>
   <a
-    href="https://wa.me/923023155306"
+    href="https://wa.me/923450000786"
     target="_blank"
     rel="noopener noreferrer"
     className="text-green-400 font-bold underline"
