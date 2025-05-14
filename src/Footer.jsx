@@ -10,7 +10,7 @@ const Footer = () => {
         {/* WhatsApp Info */}
         <div className="text-center md:text-left">
   <div className="flex items-center justify-center md:justify-start gap-2 mb-1">
-    <a href="https://wa.me/923023155306" target="_blank" rel="noopener noreferrer" title="WhatsApp">
+    <a href="https://wa.me/923450000786" target="_blank" rel="noopener noreferrer" title="WhatsApp">
       <FaWhatsapp className="text-green-400 text-2xl hover:text-green-500 transition" />
     </a>
     <p className="font-semibold text-lg">Contact us on WhatsApp:</p>
@@ -21,7 +21,7 @@ const Footer = () => {
     rel="noopener noreferrer"
     className="text-green-400 font-bold underline"
   >
-    +92 302 3155306
+    +92 345 0000786
   </a>
 </div>
 
